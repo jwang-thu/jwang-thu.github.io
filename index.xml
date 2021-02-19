@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Jun Wang 王珺</title>
-    <link>https://example.com/</link>
+    <link>https://jwang-thu.github.io/</link>
     <description>Recent content in Home on Jun Wang 王珺</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://jwang-thu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Current Teaching</title>
-      <link>https://example.com/teaching/</link>
+      <link>https://jwang-thu.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/teaching/</guid>
+      <guid>https://jwang-thu.github.io/teaching/</guid>
       <description>Numerical Analysis Spring 2021, course ID: 60420254  Instructor: Jun Wang, TA: Hao Sun   This course is a one semester course meant to introduce graduate students from science and engineering disciplines to the fundamentals of numerical mathematics. (But any graduate student seriously interested in applied mathematics should take it.) It will be an introductory course covering a broad range of topics such as: interpolation, numerical differentiation, numerical quadrature, linear systems, and least squares problems.</description>
     </item>
     
     <item>
       <title>Hobbies</title>
-      <link>https://example.com/hobbies/</link>
+      <link>https://jwang-thu.github.io/hobbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/hobbies/</guid>
+      <guid>https://jwang-thu.github.io/hobbies/</guid>
       <description>Beyond mathematics In the limited time when I&amp;rsquo;m not doing math, I have a lot of hobbies, which include (but are not restricted to):
  Fine art (Chinese painting, calligraphy, pen and ink drawing, etc.) Literature (poetry, fiction, literary critique) Beijing Opera  If you are an aspiring artist or writer too, welcome to stop by and have a chat! A nonacademic webpage/blog is under construction. Stay tuned.</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>https://example.com/home/</link>
+      <link>https://jwang-thu.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/home/</guid>
+      <guid>https://jwang-thu.github.io/home/</guid>
       <description>About Me  Jun Wang
 Assistant Professor
 Yau Mathematical Sciences Center
